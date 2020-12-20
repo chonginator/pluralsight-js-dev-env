@@ -7,4 +7,4 @@ root = true
 [*]
 indent_style = tab
 charset = utf-8
-trim_trailinig_whitepsace = true
+trim_trailing_whitepsace = true
